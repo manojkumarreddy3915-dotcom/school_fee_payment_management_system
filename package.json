@@ -1,0 +1,23 @@
+{
+  "name": "school-fee-payment-management-system",
+  "version": "1.0.0",
+  "description": "School Fee Payment Management System built with Express and MySQL",
+  "main": "app7a-0.js",
+  "scripts": {
+    "start": "node app7a-0.js"
+  },
+  "keywords": [
+    "school",
+    "fees",
+    "payment",
+    "students",
+    "management"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.5"
+  }
+}
